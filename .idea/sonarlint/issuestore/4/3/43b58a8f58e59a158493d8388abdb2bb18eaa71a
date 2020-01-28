@@ -1,0 +1,10 @@
+
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(¾ÕÈúÿÿÿÿ8Ë«óã×-
+ª%squid:RedundantThrowsDeclarationCheck>"rRemove the declaration of thrown exception 'org.apache.shiro.authc.AccountException' which is a runtime exception.(®Ä  8¯¼‘å×-
+ysquid:S2159O"VRemove this call to "equals"; comparisons between unrelated types always return false.(µü¦úÿÿÿÿ8Ë«óã×-
+zsquid:S1488R"\Immediately return this expression instead of assigning it to the temporary variable "info".(ı•ø³8Ë«óã×-
+_squid:S1481&"<Remove this unused "simpleAuthorizationInfo" local variable.(¨€ÒĞúÿÿÿÿ8Ë«óã×-
+nsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(¯€ÿÿÿÿÿ8Ë«óã×-
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(•ô”8Ë«óã×-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(¹üå¹úÿÿÿÿ8Ë«óã×-
