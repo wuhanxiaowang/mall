@@ -20,7 +20,7 @@ import java.util.List;
 @Slf4j
 public class TaskJob {
     private static final SimpleDateFormat dateFormat = new SimpleDateFormat("HH:mm:ss");
-    @Scheduled(fixedRate = 3000)
+    @Scheduled(fixedRate = 1000)
     public void testTasks() {
         List<User> userList=new ArrayList<>();
         for(int i=0;i<5;i++){
